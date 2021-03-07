@@ -1,1 +1,1 @@
-# Soduko solver in python rule based
+# Rule based Soduko solver in python 
